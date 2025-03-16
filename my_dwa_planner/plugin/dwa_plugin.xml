@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<library path="libdwa_planner">
+    <class name="DWAPlanner" type="DWAPlanner" base_class_type="nav2_core::Controller">
+        <description>DWA-based Local Planner for Nav2</description>
+    </class>
+</library>
